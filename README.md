@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋, I'm Urvi Hadiya
 
-<!--
-**urvihadiya-flutter/urvihadiya-flutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 BCA Student | 📱 Flutter Learner | 🤖 AI Enthusiast
 
-Here are some ideas to get you started:
+I am a BCA student interested in mobile application development.
+Currently, I am learning Flutter, Dart, and AI integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Technologies
+
+- **Programming:** C, C++  — Basic Knowledge
+- **Web Technologies:** HTML, CSS — Basic Knowledge
+- **Database:** MySQL — Basic Knowledge
+- **Mobile Development:** Flutter, Dart — Currently Learning
+- **Tools:** Git, GitHub, VS Code — Basic Knowledge
+
+---
+
+## 🚀 Projects
+
+### 🌱 AI Smart Agriculture Assistant
+
+A Flutter-based application designed to help farmers with:
+
+- 🌱 Crop Management
+- 🤖 AI-powered Crop Care Suggestions
+- 🌦️ Weather Information
+- 📊 Market Rates
+
+---
+
+## 📚 Currently Learning
+
+- Flutter & Dart
+- Firebase
+- AI Integration
+- Git & GitHub
+- Mobile App Development
+
+---
+
+## 🎯 Career Goal
+
+To become a skilled Flutter Developer and build useful,
+user-friendly mobile applications.
+
+---
+
+## 📫 Connect With Me
+
+- 📍 Gujarat, India
+- 💼 LinkedIn: Add your LinkedIn profile here
+- 📧 Email:hadiyaurvi2@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
