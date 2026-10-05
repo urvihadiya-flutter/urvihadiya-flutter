@@ -50,7 +50,7 @@ user-friendly mobile applications.
 ## 📫 Connect With Me
 
 - 📍 Gujarat, India
-- 💼 LinkedIn: Add your LinkedIn profile here
+- 💼 LinkedIn: Urvi Hadiya 
 - 📧 Email:hadiyaurvi2@gmail.com
 
 ---
